@@ -1,12 +1,12 @@
 :root{
     /* ===== Colors ===== */
-    --body-color: #F5F5F5;
+    --body-color: #776e6e;
     --sidebar-color: #FFF;
-    --primary-color: #4A3FC8;
+    --primary-color: #0c0c0c;
     --primary-color-light: #cdc8ff;
-    --toggle-color: #4A3FC8;
-    --text-color: #2d2d2d;
-    --black-color: #2d2d2d;
+    --toggle-color: #0d0d0f;
+    --text-color: #837676;
+    --black-color: #1f1c1c;
     --white-color: #FFF;
 
     /* ====== Transition ====== */
@@ -67,7 +67,7 @@ body.dark .home  h1{
     align-items: center;
     padding: 20px;
     background-color: var(--primary-color);
-    background-image: linear-gradient(#4A3FC8, #A9A0D0);
+    background-image: linear-gradient(#0f0f0f, #72707a);
 }
 
 .img-container .left{
