@@ -2,57 +2,57 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "By default the members of the structure are",
+    answer: "Public",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Private",
+      "Protected",
+      "Public",
+      "Access Specifiers not applicable"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "Which one of the following is a keyword?",
+    answer: "Switch",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "Key",
+      "Jump",
+      "Size",
+      "Switch"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "What is a constant that contains a single character enclosed within single quotes?",
+    answer: "Character",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "Character",
+      "Numeric",
+      "Fixed",
+      "Floating point"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "How many number of arguments can a destructor of a class receives?",
+    answer: "0",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "1",
+      "0",
+      "3",
+      "4"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Choose the invalid identifier from the below",
+    answer: "bool",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "init",
+      "DOUBLE",
+      "bool",
+      "_0_"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
